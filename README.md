@@ -1,4 +1,4 @@
-# NLP College Assignments
+# NLP Assignments
 
 ## Assignment 1 - Multilingual Lyrics Genre Classification with Text Preprocessing and LSTM Models
 
